@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>1_离线工具架安装说明</title>
+      <link href="/posts/50fd5334.html"/>
+      <url>/posts/50fd5334.html</url>
+      <content type="html"><![CDATA[<center style="font-weight:bold;font-size:large">更新时间 2020-3-27</center><hr><a id="more"></a><h2 id="安装说明"><a href="#安装说明" class="headerlink" title="安装说明"></a>安装说明</h2><blockquote><p>&emsp;&emsp;离线工具架的目录如下图</p></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> OP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> OP </tag>
+            
+            <tag> 离线工具架 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>引用文件批量替换工具</title>
+      <link href="/posts/aaf5508f.html"/>
+      <url>/posts/aaf5508f.html</url>
+      <content type="html"><![CDATA[<h1 id="引用文件批量替换工具"><a href="#引用文件批量替换工具" class="headerlink" title="引用文件批量替换工具"></a>引用文件批量替换工具</h1><p><img src="/posts/../img/icon/OP_BatchRef.png" style="margin:3px auto"></p><a id="more"></a><h2 id="使用演示"><a href="#使用演示" class="headerlink" title="使用演示"></a>使用演示</h2>]]></content>
+      
+      <categories>
+          
+          <category> 导出 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 导出 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>FBX导出工具</title>
+      <link href="/posts/65ac9d08.html"/>
+      <url>/posts/65ac9d08.html</url>
+      <content type="html"><![CDATA[<h1 id="规范导出FBX文件"><a href="#规范导出FBX文件" class="headerlink" title="规范导出FBX文件"></a>规范导出FBX文件</h1><p><img src="/posts/../img/icon/ua_animExp.png" style="margin:3px auto"></p><a id="more"></a><h2 id="使用演示"><a href="#使用演示" class="headerlink" title="使用演示"></a>使用演示</h2><h3 id="点击图标打开窗口"><a href="#点击图标打开窗口" class="headerlink" title="点击图标打开窗口"></a>点击图标打开窗口</h3><p><img src="/posts/../img/FBX导出工具/01.png" alt="alt"></p><h3 id="导出目录"><a href="#导出目录" class="headerlink" title="导出目录"></a>导出目录</h3><p><img src="/posts/../img/FBX导出工具/02.png" alt="alt"></p><blockquote><p>点击导出目录 自动遍历选择的文件夹下的 Maya 文件<br>在所在目录下生成 FBXAnim 文件夹，将FBX文件导出到 FBXAnim 文件夹下</p></blockquote><h3 id="导出文件"><a href="#导出文件" class="headerlink" title="导出文件"></a>导出文件</h3><p><img src="/posts/../img/FBX导出工具/03.png" alt="alt"></p><blockquote><p>选择一个文件导出到 FBXAnim 文件夹中</p></blockquote><h3 id="运行上次"><a href="#运行上次" class="headerlink" title="运行上次"></a>运行上次</h3><blockquote><p>记录上次运行的方案，再次导出</p></blockquote><h2 id="使用注意"><a href="#使用注意" class="headerlink" title="使用注意"></a>使用注意</h2><p><img src="/posts/../img/FBX导出工具/04.png" alt="alt"></p><blockquote><p>导出的摄像机骨骼必须要要有 FOV 摄像机属性，否则导出会发出警告</p></blockquote><p><img src="/posts/../img/FBX导出工具/05.png" alt="alt"></p><hr><p><img src="/posts/../img/FBX导出工具/06.png" alt="alt"></p><blockquote><p>导出的时候如果遇到多根 root 骨骼会弹出选项确认窗口，确认导出</p></blockquote>]]></content>
+      
+      <categories>
+          
+          <category> 导出 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 导出 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>骨骼数量显示工具</title>
+      <link href="/posts/57b11759.html"/>
+      <url>/posts/57b11759.html</url>
+      <content type="html"><![CDATA[<h1 id="点击显示当前场景骨骼数量"><a href="#点击显示当前场景骨骼数量" class="headerlink" title="点击显示当前场景骨骼数量"></a>点击显示当前场景骨骼数量</h1><p><img src="/posts/../img/icon/op_boneCount.png" style="margin:3px auto"></p><a id="more"></a><h2 id="使用演示"><a href="#使用演示" class="headerlink" title="使用演示"></a>使用演示</h2><p><img src="/posts/../img/骨骼数量显示工具/01.gif" alt="alt"></p>]]></content>
+      
+      <categories>
+          
+          <category> 绑定 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 绑定 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>工具目录导航</title>
+      <link href="/posts/ca42c159.html"/>
+      <url>/posts/ca42c159.html</url>
+      <content type="html"><![CDATA[<center style="font-weight:bold;font-size:large">更新时间 2020-3-27</center><hr><a id="more"></a><style>.tool_link{    color:blue;}</style><h2 id="骨骼数量显示工具"><a href="#骨骼数量显示工具" class="headerlink" title="骨骼数量显示工具"></a>骨骼数量显示工具</h2><p><a class="tool_link" href="57b11759.html">骨骼数量显示工具</a><br><img src="/posts/../img/icon/op_boneCount.png" style="margin:0px"></p><h2 id="FBX导出工具"><a href="#FBX导出工具" class="headerlink" title="FBX导出工具"></a>FBX导出工具</h2><p><a class="tool_link" href="57b11759.html">FBX导出工具</a><br><img src="/posts/../img/icon/ua_animExp.png" style="margin:0px"></p><h2 id="IKFK切换"><a href="#IKFK切换" class="headerlink" title="IKFK切换"></a>IKFK切换</h2><p><a class="tool_link" href="57b11759.html">IKFK切换</a><br><img src="/posts/../img/icon/IKFK.png" style="margin:0px"></p><h2 id="动作库"><a href="#动作库" class="headerlink" title="动作库"></a>动作库</h2><p><a class="tool_link" href="57b11759.html">动作库</a><br><img src="/posts/../img/icon/icon_white_on_orange.png" style="margin:0px"></p><h2 id="本地动作库"><a href="#本地动作库" class="headerlink" title="本地动作库"></a>本地动作库</h2><p><a class="tool_link" href="57b11759.html">本地动作库</a><br><img src="/posts/../img/icon/icon_white_on_blue.png" style="margin:0px"></p><h2 id="导出工具"><a href="#导出工具" class="headerlink" title="导出工具"></a>导出工具</h2><p><a class="tool_link" href="57b11759.html">导出工具</a><br><img src="/posts/../img/icon/export.png" style="margin:0px"></p><h2 id="动画工具包"><a href="#动画工具包" class="headerlink" title="动画工具包"></a>动画工具包</h2><p><a class="tool_link" href="57b11759.html">动画工具包</a><br><img src="/posts/../img/icon/animtool.png" style="margin:0px"></p><h2 id="批量拍屏工具"><a href="#批量拍屏工具" class="headerlink" title="批量拍屏工具"></a>批量拍屏工具</h2><p><a class="tool_link" href="57b11759.html">批量拍屏工具</a><br><img src="/posts/../img/icon/OP_PlayBlast.png" style="margin:0px"></p><h2 id="欧拉角度过滤"><a href="#欧拉角度过滤" class="headerlink" title="欧拉角度过滤"></a>欧拉角度过滤</h2><p><a class="tool_link" href="57b11759.html">欧拉角度过滤</a><br><img src="/posts/../img/icon/OP_Euler.png" style="margin:0px"></p><h2 id="简化曲线"><a href="#简化曲线" class="headerlink" title="简化曲线"></a>简化曲线</h2><p><a class="tool_link" href="57b11759.html">简化曲线</a><br><img src="/posts/../img/icon/OP_SPC.png" style="margin:0px"></p><h2 id="吸附关键帧"><a href="#吸附关键帧" class="headerlink" title="吸附关键帧"></a>吸附关键帧</h2><p><a class="tool_link" href="57b11759.html">吸附关键帧</a><br><img src="/posts/../img/icon/OP_SnapKey.png" style="margin:0px"></p><h2 id="过滤集"><a href="#过滤集" class="headerlink" title="过滤集"></a>过滤集</h2><p><a class="tool_link" href="57b11759.html">过滤集</a><br><img src="/posts/../img/icon/OP_SetFilter.png" style="margin:0px"></p><h2 id="2-1-缩放"><a href="#2-1-缩放" class="headerlink" title="2:1 缩放"></a>2:1 缩放</h2><p><a class="tool_link" href="57b11759.html">2:1 缩放</a><br><img src="/posts/../img/icon/OP_AspectRatio.png" style="margin:0px"></p><h2 id="镜像"><a href="#镜像" class="headerlink" title="镜像"></a>镜像</h2><p><a class="tool_link" href="57b11759.html">镜像</a><br><img src="/posts/../img/icon/OP_Mirror.png" style="margin:0px"></p><h2 id="轴心控制"><a href="#轴心控制" class="headerlink" title="轴心控制"></a>轴心控制</h2><p><a class="tool_link" href="57b11759.html">轴心控制</a><br><img src="/posts/../img/icon/OP_AnimPivot.png" style="margin:0px"></p><h2 id="帮助文档"><a href="#帮助文档" class="headerlink" title="帮助文档"></a>帮助文档</h2><p><a class="tool_link" href="57b11759.html">帮助文档</a><br><img src="/posts/../img/icon/OP_doc.png" style="margin:0px"></p><hr><h2 id="切分动画"><a href="#切分动画" class="headerlink" title="切分动画"></a>切分动画</h2><p><a class="tool_link" href="57b11759.html">切分动画</a><br><img src="/posts/../img/icon/OP_AnimSpliter.png" style="margin:0px"></p><h2 id="飘带工具"><a href="#飘带工具" class="headerlink" title="飘带工具"></a>飘带工具</h2><p><a class="tool_link" href="57b11759.html">飘带工具</a><br><img src="/posts/../img/icon/OP_Overlapper.png" style="margin:0px"></p><h2 id="SpringMagic"><a href="#SpringMagic" class="headerlink" title="SpringMagic"></a>SpringMagic</h2><p><a class="tool_link" href="57b11759.html">SpringMagic</a><br><img src="/posts/../img/icon/OP_Spring.png" style="margin:0px"></p><hr><h2 id="法线解锁工具"><a href="#法线解锁工具" class="headerlink" title="法线解锁工具"></a>法线解锁工具</h2><p><a class="tool_link" href="57b11759.html">法线解锁工具</a><br><img src="/posts/../img/icon/unlock.png" style="margin:0px"></p><h2 id="轮廓挤出工具"><a href="#轮廓挤出工具" class="headerlink" title="轮廓挤出工具"></a>轮廓挤出工具</h2><p><a class="tool_link" href="57b11759.html">轮廓挤出工具</a><br><img src="/posts/../img/icon/OP_meshProfile.png" style="margin:0px"></p>]]></content>
+      
+      <categories>
+          
+          <category> OP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> OP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+</search>
